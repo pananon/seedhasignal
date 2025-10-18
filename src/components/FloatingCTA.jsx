@@ -14,8 +14,8 @@ export default function FloatingCTA() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const phoneNumber = '+919999999999';
-  const whatsappUrl = `https://wa.me/919999999999?text=Hi%20Seedha%20Signal%2C%20I%20want%20to%20discuss%20my%20digital%20marketing%20needs.`;
+  const phoneNumber = '+919455406362';
+  const whatsappUrl = `https://wa.me/919455406362?text=Hi%20Seedha%20Signal%2C%20I%20want%20to%20discuss%20my%20digital%20marketing%20needs.`;
   const callUrl = `tel:${phoneNumber}`;
 
   return (
